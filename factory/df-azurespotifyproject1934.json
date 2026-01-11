@@ -1,0 +1,9 @@
+{
+	"name": "df-azurespotifyproject1934",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bb44c2ef-830a-4307-8c4d-1926ee5d52ba",
+		"tenantId": "a057e007-4798-4a3b-a986-1d6252b480a1"
+	}
+}
